@@ -114,7 +114,7 @@ data:
       ssl_enabled: false
       threadiness: 0
 
-  k8s_audit_rules.yaml: |
+  k8s_audit_rules.yaml: |-
     # SPDX-License-Identifier: Apache-2.0
     #
     # Copyright (C) 2023 The Falco Authors.
